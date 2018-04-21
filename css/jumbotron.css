@@ -1,0 +1,64 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 0px;
+  padding-bottom: 20px;
+  background-image: url('../img/escheresque_ste.png');
+}
+a{
+	color: #333;
+	text-decoration: none;
+}
+.roundbtm {
+	border-bottom-right-radius: 1em;
+	border-bottom-left-radius: 1em;
+}
+
+.dc-top {
+	height: 80px;
+	background-color: #444; 
+	color: #fff;
+}
+
+.top-mid {
+	color: #fff;
+	margin-top: 42px;
+}
+
+
+.top-rhs {
+	color: #fff;
+	margin-top: 12px;
+}
+
+.top-mid a{
+	color: #fff;
+}
+.top-lhs a{
+	color: #fff;
+}
+.top-rhs a {
+	margin-bottom: 5px;
+}
+
+.top-mid a{
+	margin-right : 15px;
+	margin-left: 15px; 
+}
+#btm_nav {
+	margin: 10px;
+	text-align: center;
+}
+#btm_nav a:link{ color: #333; text-decoration: none; margin-left: 10px; margin-right: 10px;}
+#btm_nav a:active{ color: #333; text-decoration: none; margin-left: 10px; margin-right: 10px;}
+#btm_nav a:visited{ color: #333; text-decoration: none; margin-left: 10px; margin-right: 10px;}
+#btm_nav a:hover{ color: #333; text-decoration: none; margin-left: 10px; margin-right: 10px;}
+
+
+
+
+
+
+
+
+
+
